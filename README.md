@@ -1,4 +1,4 @@
-# This is task 1 from branch2 which consisted of:
+# This is task 1 from branch1 which consisted of:
 
 1. main.java
 2. main.py
