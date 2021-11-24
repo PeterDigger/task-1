@@ -1,5 +1,7 @@
 int main()
 {
-	cout << "Hello, Chongw";
+	String h = "hello, ";
+	String c = "Chong!"
+	cout << h << c;
 	return 0;
 }

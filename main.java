@@ -1,4 +1,6 @@
 public static void main(String[] args) 
 {
-	System.out.printIn("Hello, Chong!");
+	String h = "Hello, ";
+	String c = "Chong!";
+	System.out.printIn(h, c);
 }
