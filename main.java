@@ -1,6 +1,9 @@
-public static void main(String[] args) 
+class main()
 {
-	String h = "Hello, ";
-	String c = "Chong!";
-	System.out.printIn(h, c);
+	public static void main(String[] args) 
+	{
+		String h = "Hello, ";
+		String c = "Chong!";
+		System.out.printIn(h, c);
+	}
 }
