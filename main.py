@@ -1,2 +1,2 @@
-String text = "Hello everytone!"
+String text = "Hellow world!"
 print(text)

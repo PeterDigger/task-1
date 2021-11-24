@@ -1,6 +1,7 @@
 int main()
 {
-	String textt = "hello, everyone!";
-	cout << texttw;
+	String text = " Hello, world"; 
+	cout << text;
+
 	return 0;
 }
