@@ -1,4 +1,5 @@
 public static void main(String[] args) 
 {
-	System.out.printIn("Hello, world!");
+	String text = "Hello, World!";
+	System.out.printIn(textwq);
 }

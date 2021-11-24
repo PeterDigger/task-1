@@ -1,5 +1,6 @@
 int main()
 {
-	cout << "Hello, world";
+	String text = " Hello, world"; 
+	cout << text;
 	return 0;
 }
