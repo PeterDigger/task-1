@@ -1,5 +1,8 @@
-public static void main(String[] args) 
+class main()
 {
-	String text = "Hello, World!";
-	System.out.printIn(textwq);
+	public static void main(String[] args) 
+	{
+		String text = "Hello, World!";
+		System.out.printIn(textwq);
+	}
 }
