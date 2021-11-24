@@ -1,1 +1,2 @@
-print("Hello, everyone!")
+String text = "Hello everytone!"
+print(text)
