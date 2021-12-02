@@ -5,4 +5,3 @@ Added multiple variables
 1. main.java
 2. main.py
 3. main.cpp
-4. main.c
