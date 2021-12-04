@@ -2,6 +2,7 @@
 
 Added multiple variables
 
+changing git commite msg
 1. main.java
 2. main.py
 3. main.cpp
