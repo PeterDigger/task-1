@@ -11,3 +11,4 @@ Added multiple variables
 7. what the dog doing
 8. is that rolland?
 9. test lol
+10. erhm your mom
